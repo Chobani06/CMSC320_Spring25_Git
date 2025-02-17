@@ -3,3 +3,6 @@ Q1: Why might we consider using Git?
 Answer: We use Git to collaborate with other people, track changes in code by looking at previous versions, and help prevent data loss.
 With Git, I can make use of its brancing capabilities to easily merge data. It is very good for developers to manage their code and different files.
   
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to healthcare for analyzing patient records, predict outcomes for patients, and create personalized treatment plans.
